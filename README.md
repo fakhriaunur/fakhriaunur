@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @fakhriaunur
-- 👀 I’m interested in Domain Driven Design approach to Business-Rich Domain Problem
-- 🌱 I’m currently mastering Software Craftmanship
-- 💞️ I’m looking to collaborate on DDD based Open Source Project
+- I'm thriving to be as Hardware Sympathetic as possible
+- 👀 I’m interested in Web Backends, Systems Programming, and other Low-Level Stuff
 - 📫 Reach me at fakhri.aunur at gmail.com
 
 <!---
